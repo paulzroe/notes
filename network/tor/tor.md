@@ -7,7 +7,7 @@
 -  SNI (if available) is www.{random}.com and usually won’t resolve. Example: www.b57efm9h06hb331njjd.com  
 -  It usually uses port 443 or 9001. But other ports can also be used.  
 
-![tor_traffic](.\tor_traffic.png)
+![tor_traffic](https://github.com/paulzroe/notes/blob/main/network/tor/tor_traffic.png?raw=true)
 
 ## Suricata rule to detect TOR
 
